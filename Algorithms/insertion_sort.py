@@ -19,10 +19,10 @@ class insertion:
         n = len(arr)
         self.arr.append(n)
 
-        start_time = time.time()
-        memory_used = memory_profiler.memory_usage()[0]
-
         for i in range(1, len(arr)):
+
+            start_time = time.time()
+            memory_used = memory_profiler.memory_usage()[0]
 
             key = arr[i]
             j = i - 1

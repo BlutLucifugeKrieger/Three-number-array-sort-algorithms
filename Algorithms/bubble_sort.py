@@ -18,10 +18,12 @@ class bubble:
         n = len(arr)
         self.arr.append(n)
 
-        start_time = time.time()
-        memory_used = memory_profiler.memory_usage()[0]
+
 
         for i in range(n - 1):
+
+            start_time = time.time()
+            memory_used = memory_profiler.memory_usage()[0]
 
             for j in range(0, n - i - 1):
                 if arr[j] > arr[j + 1]:

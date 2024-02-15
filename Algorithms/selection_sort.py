@@ -19,10 +19,11 @@ class selection:
         n = len(arr)
         self.arr.append(n)
 
-        start_time = time.time()
-        memory_used = memory_profiler.memory_usage()[0]
-
         for i in range(n):
+
+            start_time = time.time()
+            memory_used = memory_profiler.memory_usage()[0]
+
             min_idx = i
             for j in range(i + 1, n):
                 if arr[j] < arr[min_idx]:
