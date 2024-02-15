@@ -54,8 +54,39 @@ ________________________________________________________________________________
 
  First clone this repository and install the requirements.txt.
 
-   **-> For clone this repository use:** git clone https://github.com/BlutLucifugeKrieger/Three-array-search-algorithms.git
+   **-> For clone this repository use:** git clone https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms.git
 
    **-> And, to install all the dependencies use:** pip install -r requirements.txt
     
   * Second, run the main.py file
+    
+**Then, you should got this:**
+
+![image](https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms/assets/130005378/0db4e618-2421-48e6-bcaa-79d703119f43)
+
+**In this screen, you should type a number to choose the method**
+
+![image](https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms/assets/130005378/d28d1d8c-5197-418b-8345-a4adc22d41e2)
+
+In this case, i wanna use the linear method, and as entry array i type: [99, 80 , 100, 2 , 31, 65, 12, 45, 67, 31, 87, 52, 11, 95, 49, 66, 71, 74, 10]
+Then pull the enter key.
+
+Finally, the result array appears (sorted array) and at the same time two graphics will appear too (time elapsed and memory usage)
+
+![image](https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms/assets/130005378/2c22b37c-a0ae-41d6-8232-b7fc59780515)
+
+![image](https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms/assets/130005378/435c1e93-b4b4-4a11-b847-c2d00ffe31c2)
+
+___________________________________________________________
+
+### Coverage report
+
+![3_sort](https://github.com/BlutLucifugeKrieger/Three-number-array-sort-algorithms/assets/130005378/3ad73b48-09de-4953-93df-994741e01432)
+
+___________________________________________________________
+
+## Related info
+
+ * https://www.tutorialspoint.com/data_structures_algorithms/bubble_sort_algorithm.htm
+ * https://www.codecademy.com/resources/docs/general/algorithm/selection-sort
+ * https://www.programiz.com/dsa/insertion-sort
