@@ -10,7 +10,7 @@ __________________________________________
 
 ## Description
 
-This repository can organize an entry array of numbers using three methods (Bubble sort, Seleccion sort and Insertion sort).
+This repository can organize an entry array of numbers using three methods (Bubble sort, Selection sort and Insertion sort).
 
 ### What's bubble sort?
 
